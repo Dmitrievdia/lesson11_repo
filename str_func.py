@@ -5,6 +5,6 @@ def str_to_capital_letters(s: str) -> str:
 
 
 def str_to_capital_first_letter(s: str) -> str:
-    """функция принимает на вход строку и возвращает
+    """Функция принимает на вход строку и возвращает
     каждое слово с заглавной буквы"""
     return s.title()
